@@ -4,6 +4,6 @@
 </head>
 <body>
 <h2>Hello World with OpenShift!</h2>
-ajaxのテストをやってみます。
+ 　Ajaxのテストをやってみる。
 </body>
 </html>
